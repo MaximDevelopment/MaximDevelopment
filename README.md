@@ -1,7 +1,7 @@
 <h1 align="center">Maxim Development</h1>
 <h3 align="center">FiveM Developement</h3>
 
-Hi, welcome to my github page. I have been involved with FiveM Development for 1+ years. You can contact me with [discord](https://discord.gg/erTUsFfVdd)
+Hi, welcome to my github page. I have been involved with FiveM Development for 1+ years. You can contact me on [discord](https://discord.gg/erTUsFfVdd) feel free to join!
 
 
 
