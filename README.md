@@ -1,7 +1,9 @@
-<h1 align="center">Maxim Development<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Maxim Development<img height="40"</h1>
 <h3 align="center">FiveM Developement</h3>
 
 <h3 align="center">Languages:</h3>
+
+> Hi, welcome to my github page. I have been involved with FiveM Development for 1+ years. You can contact me via discord!
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
