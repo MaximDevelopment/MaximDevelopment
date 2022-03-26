@@ -1,7 +1,7 @@
-<h1 style = 'color: red;' align="center">Maxim Development</h1>
+<h1 align="center">Maxim Development</h1>
 <h3 align="center">FiveM Developement</h3>
 
-Hi, welcome to my github page. I have been involved with FiveM Development for 1+ years. You can contact me with discord!
+<p align="center">Hi, welcome to my github page. I have been involved with FiveM Development for 1+ years. You can contact me with discord!<p>
 
 
 
